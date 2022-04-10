@@ -1,6 +1,8 @@
 # Solidity Days
 
-### My Updates
+# Learning Updates
+
+[The Very Basics](./thebasics.md)
 
 
 
