@@ -1,5 +1,9 @@
 # Solidity Days
 
+>My journey to become a solidity dev
+
+[Solidity Docs](https://docs.soliditylang.org/en/latest/)
+
 # Learning Updates
 
 [The Very Basics](./thebasics.md)
