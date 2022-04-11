@@ -39,3 +39,11 @@ Watch [Linumlabs-Solidity](https://youtube.com/playlist?list=PLtQA_IktTCnZcITKc6
 6: [Ethernauts](https://ethernaut.openzeppelin.com/)
 
 7: Decide from this [link](https://www.devpill.me/docs/smart-contract-development/solidity/)
+
+## EVM resources
+
+[Twitter Thread by @bensparks_ ](https://twitter.com/bensparks_/status/1513238520575537162?s=20&t=yyhbzL48VIRhQapVH_2ioQ)
+
+[EVM Golf Thread by @the_ethernaut](https://twitter.com/the_ethernaut/status/1502405820465795073?s=20&t=yyhbzL48VIRhQapVH_2ioQ)
+
+
