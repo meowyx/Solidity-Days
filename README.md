@@ -32,7 +32,7 @@ Watch Linumlabs [Solidity Friday](https://youtube.com/playlist?list=PLtQA_IktTCn
 
 3: [scaffold eth](https://docs.scaffoldeth.io/scaffold-eth/) + [SpeedRunEthereum](https://speedrunethereum.com/)
 
-4: [lil web2](https://github.com/m1guelpf/lil-web3/tree/main/src) contracts reading
+4: [lil web3](https://github.com/m1guelpf/lil-web3/tree/main/src) contracts reading
 
 5: [Capture The Ether](https://capturetheether.com/)
 
