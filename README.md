@@ -38,7 +38,7 @@ Watch [Linumlabs-Solidity](https://youtube.com/playlist?list=PLtQA_IktTCnZcITKc6
 
 6: [Ethernauts](https://ethernaut.openzeppelin.com/)
 
-7: [DevPill](https://www.devpill.me/) is a very good compiled resource as well.
+7: [DevPill](https://www.devpill.me/) is a very good roadmap with a lot of alpha resources
 
 ## EVM resources
 
