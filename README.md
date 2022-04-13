@@ -19,7 +19,7 @@ Some curated articles from [BowTiedPickle’s](https://twitter.com/BowTiedPickle
 
 ## **VIdeos To Watch**
 
-Watch [Linumlabs-Solidity](https://youtube.com/playlist?list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk) Friday
+Watch Linumlabs [Solidity Friday](https://youtube.com/playlist?list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk) 
 
 
 
