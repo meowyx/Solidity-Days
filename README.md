@@ -38,7 +38,7 @@ Watch [Linumlabs-Solidity](https://youtube.com/playlist?list=PLtQA_IktTCnZcITKc6
 
 6: [Ethernauts](https://ethernaut.openzeppelin.com/)
 
-7: Decide from this [link](https://www.devpill.me/docs/smart-contract-development/solidity/)
+7: [DevPill](https://www.devpill.me/) is a very good compiled resource as well.
 
 ## EVM resources
 
