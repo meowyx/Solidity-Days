@@ -21,6 +21,9 @@ Some curated articles from [BowTiedPickle’s](https://twitter.com/BowTiedPickle
 
 Watch Linumlabs [Solidity Friday](https://youtube.com/playlist?list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk) 
 
+## **A good Project based resource to learn**
+
+Questbook's [Build on Ethereum](https://learn.questbook.xyz/tracks/build-on-ethereum) and also [Build on Polygon](https://learn.questbook.xyz/tracks/build-on-polygon)
 
 
 
