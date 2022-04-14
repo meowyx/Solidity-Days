@@ -26,7 +26,7 @@ Watch Linumlabs [Solidity Friday](https://youtube.com/playlist?list=PLtQA_IktTCn
 
 ## Resources:
 
-1: Solidity basics [link1](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz) + [link2](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p) 
+1: Solidity basics [video series 1](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz) + [video series 2](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p). Also [here's](https://solidity-by-example.org/) the text version
 
 2: [Hack Solidity](https://www.youtube.com/playlist?list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5) + [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/) + [videos of it](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi) 
 
