@@ -33,7 +33,7 @@ Questbook's [Build on Ethereum](https://learn.questbook.xyz/tracks/build-on-ethe
 
 2: [Hack Solidity](https://www.youtube.com/playlist?list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5) + [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/) + [videos of it](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi) 
 
-3: [scaffold eth](https://docs.scaffoldeth.io/scaffold-eth/) + [SpeedRunEthereum](https://speedrunethereum.com/)
+3: [scaffold eth](https://github.com/scaffold-eth/scaffold-eth) + [SpeedRunEthereum](https://speedrunethereum.com/)
 
 4: [lil web3](https://github.com/m1guelpf/lil-web3/tree/main/src) contracts reading
 
