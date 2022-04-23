@@ -26,22 +26,23 @@ Watch Linumlabs [Solidity Friday](https://youtube.com/playlist?list=PLtQA_IktTCn
 Questbook's [Build on Ethereum](https://learn.questbook.xyz/tracks/build-on-ethereum) and also [Build on Polygon](https://learn.questbook.xyz/tracks/build-on-polygon)
 
 
+## Challenges
+
+1: Secuream [Substack](https://secureum.substack.com/) and the [repo](https://github.com/x676f64/secureum-mind_map)
+
+2: Ethernaut. [Website](https://ethernaut.openzeppelin.com/) also [videos from D-squared](https://www.youtube.com/channel/UCVzcPkOAnbnzOpJzOCDNHwQ)
 
 ## Resources:
 
-1: Solidity basics [video series 1](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz) + [video series 2](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p). Also [here's](https://solidity-by-example.org/) the text version
+1: Solidity basics 0.0.8 [videos](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p). Also [here's](https://solidity-by-example.org/) the text version
 
-2: [Hack Solidity](https://www.youtube.com/playlist?list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5) + [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/) + [videos of it](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi) 
+2: [scaffold eth](https://github.com/scaffold-eth/scaffold-eth) + [SpeedRunEthereum](https://speedrunethereum.com/)
 
-3: [scaffold eth](https://github.com/scaffold-eth/scaffold-eth) + [SpeedRunEthereum](https://speedrunethereum.com/)
+3: [lil web3](https://github.com/m1guelpf/lil-web3/tree/main/src) contracts reading
 
-4: [lil web3](https://github.com/m1guelpf/lil-web3/tree/main/src) contracts reading
+4: [Capture The Ether](https://capturetheether.com/)
 
-5: [Capture The Ether](https://capturetheether.com/)
-
-6: [Ethernauts](https://ethernaut.openzeppelin.com/)
-
-7: [DevPill](https://www.devpill.me/) is a very good roadmap with a lot of alpha resources
+5: [DevPill](https://www.devpill.me/) is a very good roadmap with a lot of alpha resources
 
 ## EVM resources
 
