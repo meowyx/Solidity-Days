@@ -18,7 +18,7 @@ Some curated articles from [BowTiedPickle’s](https://twitter.com/BowTiedPickle
 
 ## **VIdeos To Watch**
 
-Watch Linumlabs [Solidity Friday](https://youtube.com/playlist?list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk) : I like watching their episodes on fridays. I still have to finish bunch of old ones.
+Watch Linumlabs [Solidity Friday](https://youtube.com/playlist?list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk) 
 
 ## **A good Project based resource to learn**
 
@@ -55,13 +55,13 @@ Also hardhat [docs](https://hardhat.org/getting-started/)
 
 ## Gas Optimization 
 
-[Chainlink workshop](https://www.youtube.com/watch?v=M8_4THWJkHQ) : It was a good informative workshop.
+[Chainlink workshop](https://www.youtube.com/watch?v=M8_4THWJkHQ) 
 
 [Surge  Women's Gas optimization tips](https://www.surgewomen.io/learn-about-web3/the-smart-contracts-behind-the-surge-passport-nft) 
 
 ## Merkle Trees 
 
-[Ethereum Yellow Paper Walkthrough: Merkle Trees](https://dzone.com/articles/ethereum-yellow-paper-walkthrough-27) : It was quite easy to read.
+[Ethereum Yellow Paper Walkthrough: Merkle Trees](https://dzone.com/articles/ethereum-yellow-paper-walkthrough-27) 
 
 [Merkle tree's for NFT whitelist tutorial](https://www.youtube.com/watch?v=67vkL8XkoJ0)
 
@@ -74,7 +74,7 @@ Also hardhat [docs](https://hardhat.org/getting-started/)
 
 [0xcacti](https://twitter.com/0xcacti/status/1485079302601207810?s=20&t=Iu2DlMREKnTAzGzifVZLMA) : this thread really breaks down what is important to learn and why.
 
-[t11](https://twitter.com/transmissions11/status/1485159010210770946?s=20&t=Iu2DlMREKnTAzGzifVZLMA) : I always follow t11's github stars, the repo's he stars are something always good to look at. 
+[t11](https://twitter.com/transmissions11/status/1485159010210770946?s=20&t=Iu2DlMREKnTAzGzifVZLMA) 
 
 ## EVM resources
 
